@@ -53,7 +53,7 @@ public class Method01 {
 
         /*
             함수형 프로그래밍 :
-                메서드 1의 return값이 메서드 2의  argument 가 되고 메서드 2 의 return값이 메서드 3의 argument가 되는 방식
+                메서드 1의 return 값이 메서드 2의  argument 가 되고 메서드 2 의 return 값이 메서드 3의 argument가 되는 방식
 
                 첫 메서드 부터 마지막 메서드까지 흐륾을 통해 프로그램 이어지는 방식
 
