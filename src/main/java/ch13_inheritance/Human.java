@@ -1,4 +1,4 @@
-package ch13_ingeritance;
+package ch13_inheritance;
 /*
     1. Animal 클래스 상속 받기
     2. 기본생성자 이용하여 main 에서 human1 객체 생성하기

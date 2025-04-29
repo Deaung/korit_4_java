@@ -1,4 +1,4 @@
-package ch13_ingeritance;
+package ch13_inheritance;
 /*
     super 키워드의 두가지 사용 방식
     1. super(): 부모 클래스의 생성자를 호출하는 키워드 / 기본생성자라면 ()내부에 아무 값이 없고
