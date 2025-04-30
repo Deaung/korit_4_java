@@ -68,4 +68,7 @@ public class CentralControl {
             deviceArray[i].off();
         }
     }
+
+
+
 }

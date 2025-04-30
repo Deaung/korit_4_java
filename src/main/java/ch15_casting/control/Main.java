@@ -20,6 +20,7 @@ public class Main {
         centralControl.powerOn();
         centralControl.powerOff();
 
-//      System.out.println(centralControl.checkEmpty()); // 결과 1
+
+
     }
 }
